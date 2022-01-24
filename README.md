@@ -1,2 +1,3 @@
-# kp-labs-seeing-beyond-visible-challenge
-Repository with material to get you started with the Seeing beyond the visible challenge hosted by KP Labs
+# Seeing Beyond the Visible challenge
+
+Repository with material to get you started with the Seeing beyond the visible challenge organized by KP LABS.
